@@ -22,8 +22,7 @@ If you think small projects are a waste of time — think again! 💡 Even a Tod
 
 - React.js ⚛️  
 - Redux Toolkit 🛠️  
-- JavaScript 💻  
-- CSS 🎨  
+- Tailwind CSS 🎨  
 
 ---
 
