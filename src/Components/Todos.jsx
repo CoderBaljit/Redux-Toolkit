@@ -7,8 +7,8 @@ function Todos() {
 
   return (
     <>
-      <div>Todos</div>
-      <ul className="list-none">
+      
+      <ul className="list-none max-w-4xl mx-auto">
         {todos.map((todo) => (
           <li
             key={todo.id}
